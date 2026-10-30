@@ -9,10 +9,22 @@
     "preview": "vite preview"
   },
   "devDependencies": {
+    "@tailwindcss/postcss": "^4.3.3",
     "autoprefixer": "^10.6.2",
     "postcss": "^8.5.32",
     "tailwindcss": "^4.3.3",
     "typescript": "~7.0.2",
     "vite": "^8.3.5"
-  }
+  },
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuilleDev96/MyPadel.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/GuilleDev96/MyPadel/issues"
+  },
+  "homepage": "https://github.com/GuilleDev96/MyPadel#readme"
 }
